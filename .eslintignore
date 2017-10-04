@@ -1,0 +1,6 @@
+build/*.js
+/node_modules
+/dist
+/config
+/static
+/postcss.config.js
